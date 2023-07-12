@@ -1,0 +1,6 @@
+[submodule "lib"]
+	path = lib
+	url = https://github.com/topsilverr/hm_sub1.git
+[submodule "component"]
+	path = component
+	url = https://github.com/topsilverr/pvc_sub2.git
